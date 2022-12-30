@@ -22,7 +22,7 @@
     "eslint-plugin-editorconfig": "^2.1.2",
     "eslint-plugin-mocha": "^7.0.0",
     "husky": "^4.2.5",
-    "mocha": "^7.2.0",
+    "mocha": "^10.2.0",
     "should": "^13.2.3",
     "supertest": "^4.0.2"
   },
